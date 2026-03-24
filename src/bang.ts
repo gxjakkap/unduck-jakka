@@ -2,6 +2,24 @@
 
 export const bangs = [
   {
+    c: "Online Services",
+    d: "yb.guntxjakka.me",
+    r: 0,
+    s: "YB 38",
+    sc: "Tools",
+    t: "yb38",
+    u: "https://yb.guntxjakka.me/gen/38?q={{{s}}}",
+  },
+  {
+    c: "Online Services",
+    d: "yb.guntxjakka.me",
+    r: 0,
+    s: "YB 39",
+    sc: "Tools",
+    t: "yb39",
+    u: "https://yb.guntxjakka.me/gen/39?q={{{s}}}",
+  },
+  {
     c: "AI",
     d: "www.t3.chat",
     r: 0,
