@@ -2,6 +2,15 @@
 
 export const bangs = [
   {
+    c: "News",
+    d: "vlr.gg",
+    r: 0,
+    s: "vlr.gg",
+    sc: "Games (specific)",
+    t: "vlr",
+    u: "https://www.vlr.gg/search/?q={{{s}}}",
+  },
+  {
     c: "Online Services",
     d: "yb.guntxjakka.me",
     r: 0,
