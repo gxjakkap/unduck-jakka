@@ -2,6 +2,24 @@
 
 export const bangs = [
   {
+    c: "AI",
+    d: "claude.ai",
+    r: 0,
+    s: "Claude",
+    sc: "AI",
+    t: "cld",
+    u: "https://claude.ai/new?q={{{s}}}",
+  },
+  {
+    c: "AI",
+    d: "chatgpt.com",
+    r: 0,
+    s: "ChatGPT",
+    sc: "AI",
+    t: "gpt",
+    u: "https://chatgpt.com/?q={{{s}}}",
+  },
+  {
     c: "News",
     d: "vlr.gg",
     r: 0,
@@ -18141,15 +18159,6 @@ export const bangs = [
     sc: "Online (marketplace)",
     t: "cl",
     u: "https://www.craigslist.org/search/sss?query={{{s}}}",
-  },
-  {
-    c: "Tech",
-    d: "support.cloudinary.com",
-    r: 0,
-    s: "Cloudinary",
-    sc: "Companies",
-    t: "cld",
-    u: "https://support.cloudinary.com/hc/en-us/search?utf8=%E2%9C%93&query={{{s}}}",
   },
   {
     c: "Shopping",
@@ -44242,15 +44251,6 @@ export const bangs = [
     sc: "Travel",
     t: "gpsies",
     u: "http://gpsies.de/?q={{{s}}}",
-  },
-  {
-    c: "Online Services",
-    d: "www.google.pt",
-    r: 223,
-    s: "Google PT",
-    sc: "Google",
-    t: "gpt",
-    u: "https://www.google.pt/search?q={{{s}}}",
   },
   {
     c: "News",
