@@ -47,6 +47,15 @@ export const bangs = [
     u: "https://yb.guntxjakka.me/gen/39?q={{{s}}}",
   },
   {
+    c: "Online Services",
+    d: "yb.guntxjakka.me",
+    r: 0,
+    s: "Yookbeer",
+    sc: "Tools",
+    t: "yb",
+    u: "https://yb.guntxjakka.me/search?q={{{s}}}",
+  },
+  {
     c: "AI",
     d: "www.t3.chat",
     r: 0,
